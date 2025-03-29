@@ -9,3 +9,5 @@
 ```trying to become a good Rust Software Developer ```
 
 * > https://leetcode.com/u/Zedddie
+  
+  29 mar 2025 thats where new era starts
