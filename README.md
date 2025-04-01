@@ -1,14 +1,3 @@
-### I am zedddie 👋
-```🎶 My name is Matt and I am beginner Rust Dev.```
-  
-```I like Rust syntax and have some projects on my mind```
+![41e38c9504e5fa879cec7e2ceaa8a863](https://github.com/user-attachments/assets/10203b8c-66fe-40b6-96b2-ec2fd7375dcf)
 
-
-![bd22126371bf5109aceab92256c690fe](https://github.com/user-attachments/assets/11416f6c-ae6f-4aa0-a1ec-c01eaaa4528a)
-
-```trying to become a good Rust Software Developer ```
-
-* > https://leetcode.com/u/Zedddie
-
-  I can just do the thing, you tell me the thing to do and I'll just go do the thing
-  29 mar 2025 thats where new era starts
+I love pizza
